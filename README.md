@@ -1,6 +1,8 @@
 # Android-RAT-SpyroidVIP
 
 Spyroid VIP the best RAT for Android 2024
+
+
                                                                             
 Price 90$ (Special price only during June)
 
@@ -60,7 +62,7 @@ Features:
 * Run a Factory Reset | ✔
 * Show Account Of Apps(Email/Number) | ✔
 * Take Screenshot Camera | ✔
-* Open Fron Camera | ✔
+* Open Front Camera | ✔
 * Open Back Camera | ✔
 * Take Photo | ✔
 * Self Destruction To remove the Apk | ✔
