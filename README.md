@@ -6,8 +6,7 @@ Spyroid VIP the best RAT for Android 2024
 
 
                                                                             
-Price 60$ (special offer until June 15 after 150$)
-
+Price 50$ 💵
 Contact: http://t.me/r00tbyt3
 
 Features:
